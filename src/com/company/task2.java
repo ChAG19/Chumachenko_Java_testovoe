@@ -11,7 +11,7 @@ public class task2 {
         System.out.print("b: ");
         String b = scanner.next();
 
-        if(a.equals(b)) System.out.println("Строки идентичны");
-        else System.out.println("Строки неидентичны");
+        if(a.equals(b)) System.out.println("Строки идентичны/identical");
+        else System.out.println("Строки неидентичны/not identical");
     }
 }
